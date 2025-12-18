@@ -17,7 +17,7 @@ File Vault is a modern, elegant, and fully functional demo application for secur
 
   <table>
     <tr>
-        <td><img src="assets/pics/pic1.png" alt="pic1" width="300"/></td>
+        <td><img src="assets/pics/pic2.png" alt="pic1" width="300"/></td>
         <td><img src="assets/pics/pic2.png" alt="pic2" width="300"/></td>
     </tr>
     <tr>
