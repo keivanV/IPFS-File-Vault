@@ -34,15 +34,12 @@ This is a demo version pre-loaded with sample files to demonstrate all features.
 - Flutter SDK (3.19 or higher)
 - Dart SDK
 
-### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/file-vault.git
-cd file-vault
 
+---
 
 ## 📸 Screenshots
+
 
 <div align="center">
   <h4>🏠 Project Images</h4>
@@ -58,4 +55,13 @@ cd file-vault
     </tr>
   </table>
 </div>
+
+
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/file-vault.git
+cd file-vault
 
