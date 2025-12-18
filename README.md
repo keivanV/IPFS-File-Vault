@@ -40,3 +40,22 @@ This is a demo version pre-loaded with sample files to demonstrate all features.
 ```bash
 git clone https://github.com/yourusername/file-vault.git
 cd file-vault
+
+
+## 📸 Screenshots
+
+<div align="center">
+  <h4>🏠 Project Images</h4>
+
+  <table>
+    <tr>
+        <td><img src="assets/pic1.png" alt="pic1" width="300"/></td>
+        <td><img src="assets/pic2.png" alt="pic2" width="300"/></td>
+    </tr>
+    <tr>
+         <td><img src="assets/pic3.png" alt="pic3" width="300"/></td>
+         <td><img src="assets/pic4.png" alt="pic4" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
