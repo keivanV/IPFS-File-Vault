@@ -9,6 +9,25 @@ File Vault is a modern, elegant, and fully functional demo application for secur
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)
 
+
+## 📸 Screenshots
+
+<div align="center">
+  <h4>🏠 Project Images</h4>
+
+  <table>
+    <tr>
+        <td><img src="assets/pics/pic1.png" alt="pic1" width="300"/></td>
+        <td><img src="assets/pics/pic2.png" alt="pic2" width="300"/></td>
+    </tr>
+    <tr>
+         <td><img src="assets/pics/pic3.png" alt="pic3" width="300"/></td>
+         <td><img src="assets/pics/pic4.png" alt="pic4" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
+
 ## ✨ Features
 
 - **File Integrity Verification** – Automatic SHA-256 hash calculation
@@ -34,34 +53,12 @@ This is a demo version pre-loaded with sample files to demonstrate all features.
 - Flutter SDK (3.19 or higher)
 - Dart SDK
 
-
-
----
-
-## 📸 Screenshots
-
-
-<div align="center">
-  <h4>🏠 Project Images</h4>
-
-  <table>
-    <tr>
-        <td><img src="assets/pic1.png" alt="pic1" width="300"/></td>
-        <td><img src="assets/pic2.png" alt="pic2" width="300"/></td>
-    </tr>
-    <tr>
-         <td><img src="assets/pic3.png" alt="pic3" width="300"/></td>
-         <td><img src="assets/pic4.png" alt="pic4" width="300"/></td>
-    </tr>
-  </table>
-</div>
-
-
-
 ### Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/file-vault.git
 cd file-vault
+
+
 
