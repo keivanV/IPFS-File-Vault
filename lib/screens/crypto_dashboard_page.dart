@@ -249,13 +249,12 @@ class _CryptoDashboardPageState extends State<CryptoDashboardPage> {
 
           const SizedBox(height: 40),
           const Text(
-            'آخرین تراکنش‌های دمو',
+            'آخرین تراکنش‌ها',
             style: TextStyle(
                 fontSize: 24, fontWeight: FontWeight.bold, color: Colors.amber),
           ),
           const SizedBox(height: 16),
 
-          // تراکنش‌های دمو — اصلاح شده
           ...[
             {
               'type': 'receive',
