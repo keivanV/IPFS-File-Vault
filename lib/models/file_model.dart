@@ -5,26 +5,28 @@ part 'file_model.g.dart';
 @HiveType(typeId: 1)
 class UploadedFile extends HiveObject {
   @HiveField(0)
-  String fileName;
+  final String fileName;
 
   @HiveField(1)
-  String hash;
+  final String hash;
 
   @HiveField(2)
-  String uploadUrl;
+  final String uploadUrl;
 
   @HiveField(3)
-  DateTime uploadDate;
+  final DateTime uploadDate;
 
   @HiveField(4)
   int accessCount;
 
   @HiveField(5)
-  DateTime? expiryDate; //
+  final DateTime? expiryDate;
+
   @HiveField(6)
-  String? sharePassword; //
+  final String? sharePassword;
+
   @HiveField(7)
-  String fileType;
+  final String fileType;
 
   UploadedFile({
     required this.fileName,
